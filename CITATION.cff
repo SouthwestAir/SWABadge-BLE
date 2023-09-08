@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: SWA Badge
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: Technology Innovation
+    affiliation: Southwest Airlines
+identifiers:
+  - type: url
+    value: 'https://southwest.com'
+    description: Southwest Airlines
+repository-code: 'https://github.com/SouthwestAir/SWABadge/'
+url: 'https://southwest.com'
+abstract: >-
+  Creation of a wearable Bluetooth "badge" to receive urgent notifications, 
+  and respond immediately via a tap.
+keywords:
+  - iOS
+  - Swift
+  - Chat
+  - IoT
+  - Bluetooth
+license: BSD-3-Clause
+version: '1.0'
+date-released: '2023-09-08'
